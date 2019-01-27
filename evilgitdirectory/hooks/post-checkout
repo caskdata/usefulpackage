@@ -1,4 +1,6 @@
 #!/bin/sh
-echo '=================================='
-echo ' arbitrary evil code goes here ;) '
-echo '=================================='
+clear
+echo '======================================='
+echo ' PoC by wtm@offensi.com for Google VRP '  
+echo ' -  arbitrary evil code goes here ;) - '
+echo '======================================='
