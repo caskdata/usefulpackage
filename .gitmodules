@@ -1,0 +1,3 @@
+[submodule "evilgitdirectory"]
+	path = evilgitdirectory
+	url = git://github.com/offensi/usefulpackage/evilgitdirectory
