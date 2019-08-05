@@ -1,7 +1,9 @@
-# usefulpackage
+# git-poc
+
 please go ahead and run the following commands: 
-- git clone https://github.com/offensi/usefulpackage
+
+- git clone https://github.com/offensi/git-poc
 - cd usefulpackage/evilgitdirectory
 - git checkout master
 
-This looks innocent right? >:)
+notice the git-hooks being executed
