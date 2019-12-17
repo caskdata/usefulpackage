@@ -3,7 +3,7 @@
 please go ahead and run the following commands: 
 
 - git clone https://github.com/offensi/git-poc
-- cd usefulpackage/evilgitdirectory
+- cd git-poc/evilgitdirectory
 - git checkout master
 
 notice the git-hooks being executed
