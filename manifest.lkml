@@ -4,5 +4,5 @@ project_name: "vbvbvbvbv"
 # # on this instance with include: statements
 #
 local_dependency: {
-   project: "../models-user-74/test"
+   project: "../../looker"
 }
